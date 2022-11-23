@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  golangapp:
+    container_name: golangapp
+    image: andersonascimentoafsn/fullcycle
+    build:
+      context: ./go
+      dockerfile: Dockerfile
