@@ -1,6 +1,6 @@
 # Primeiro desafio de Docker do curso FullCycle 3
 
-Link imagem do docker: https://hub.docker.com/repository/docker/andersonascimentoafsn/fullcycle
+Link imagem do docker no dockerhub: https://hub.docker.com/repository/docker/andersonascimentoafsn/fullcycle
 
 ### Para criar a imagem:
 
